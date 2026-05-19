@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<robot name="super_huey">
+
+  <link name="base_link">
+
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+
+      <geometry>
+        <mesh filename="Super_Huey.dae" scale="1 1 1"/>
+      </geometry>
+
+    </visual>
+
+  </link>
+
+</robot>
